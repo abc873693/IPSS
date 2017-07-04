@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">工業4.0智慧生產模擬系統</string>
+    <string name="effectivenessAnalysis">效能分析</string>
+    <string name="equipment_efficiency">整體設備效率</string>
+    <string name="integrated_productivity">設備綜合生產力</string>
+    <string name="load_time_rate">設備負荷時間率</string>
+    <string name="amount_completed">完成數量</string>
+    <string name="baking_machine">烘烤機台</string>
+    <string name="current">電流</string>
+    <string name="remove_quantity">剃除數量</string>
+    <string name="humidity">濕度</string>
+    <string name="movement_rate">設備稼動率</string>
+    <string name="plan_production">計畫產量</string>
+    <string name="power">功率</string>
+    <string name="processing_machine">加工機台</string>
+    <string name="productivity_efficiency">設備產能效率</string>
+    <string name="temperature">溫度</string>
+    <string name="testing_machine">檢測機台</string>
+    <string name="unfinished_quantity">未完成數量</string>
+    <string name="voltage">電壓</string>
+    <string name="yield">產品生產良率</string>
+    <string name="Work_order_number">工單編號</string>
+    <string name="vibration_sensor">震動感測器</string>
+</resources>

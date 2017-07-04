@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IPSS</string>
+    <string name="effectivenessAnalysis">Effectiveness Analysis</string>
+    <string name="equipment_efficiency">efficiency</string>
+    <string name="integrated_productivity">Integrated Productivity</string>
+    <string name="load_time_rate">Load time rate</string>
+    <string name="movement_rate">Movement rate</string>
+    <string name="productivity_efficiency">Productivity Efficiency</string>
+    <string name="yield">Yield</string>
+    <string name="processing_machine">Processing Machine</string>
+    <string name="voltage">Voltage</string>
+    <string name="current">Current</string>
+    <string name="power">Power</string>
+    <string name="baking_machine">Baking machine</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="testing_machine">Testing machine</string>
+    <string name="plan_production">Plan Production</string>
+    <string name="amount_completed">Amount completed</string>
+    <string name="unfinished_quantity">Unfinished quantity</string>
+    <string name="remove_quantity">Remove the quantity</string>
+    <string name="Work_order_number">Work Order Number</string>
+    <string name="vibration_sensor">Vibration sensor</string>
+</resources>
